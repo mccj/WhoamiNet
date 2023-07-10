@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhoamiNet", "WhoamiNet\WhoamiNet.csproj", "{EC821348-04A6-4BA6-98FC-3BBC9593FFE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{F2E42CE2-80AA-42B9-9A4C-D989B6455BFE}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC821348-04A6-4BA6-98FC-3BBC9593FFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC821348-04A6-4BA6-98FC-3BBC9593FFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC821348-04A6-4BA6-98FC-3BBC9593FFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC821348-04A6-4BA6-98FC-3BBC9593FFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D6CC36-95A2-4FFB-9A25-6ED62F087769}
+	EndGlobalSection
+EndGlobal
